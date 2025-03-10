@@ -1,0 +1,45 @@
+/* Basic CSS to style your portfolio */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #0f0f0f;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: #1a1a1a;
+}
+
+h1, h2 {
+    color: #4CAF50;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background: #1e1e1e;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #1a1a1a;
+}
